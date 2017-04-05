@@ -1,0 +1,13 @@
+body {
+    padding: 100px;
+}
+
+#example-text-input {
+    margin-left: 15px;
+    width: 98%;
+    color: #9F99B2;
+}
+
+label.col-2.col-form-label {
+    margin-left: 13px;
+}
